@@ -4,4 +4,4 @@
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
 - Abel, Zydric (**@zydric**)
-- Libato, Michael (**MichaelGrant-Libato**)
+- Libato, Michael (**@MichaelGrant-Libato**)
